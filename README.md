@@ -42,6 +42,6 @@
 
 ## 📫 聯絡我
 
-- Email: [lucy.yeung.work@gmail.com](mailto:aa@gmail.com)
+- Email: [lucy.yeung.work@gmail.com](mailto:lucy.yeung.work@gmail.com)
 
 感謝您的來訪！隨時歡迎與我聯繫，交流技術或討論合作機會！
